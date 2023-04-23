@@ -15,7 +15,7 @@ function App() {
     if (theme === "dark") {
       setTheme("light");
       document.body.style.backgroundColor = "#FFFFFF";
-    } else {
+    } else { 
       setTheme("dark");
       document.body.style.backgroundColor = "rgb(19 24 29)";
     }
@@ -25,11 +25,12 @@ function App() {
     <Router>
       <div className="App">
         <Navbar mode={theme} toggleTheme={toggleTheme} />
+        
         <div className="container">
           <Routes>
             {" "}
             <Route
-              path="/"
+              path="/RideQuest"
               element={<Combcomp mode={theme} toggleTheme={toggleTheme} />}
             />
             <Route
