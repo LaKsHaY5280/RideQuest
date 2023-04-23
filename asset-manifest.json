@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/RideQuest/static/css/main.7ba2f242.css",
+    "main.js": "/RideQuest/static/js/main.26022fef.js",
+    "static/js/787.d8ada10f.chunk.js": "/RideQuest/static/js/787.d8ada10f.chunk.js",
+    "static/media/abus.png": "/RideQuest/static/media/abus.ee7a54bf027bed4c5a3d.png",
+    "static/media/wedding_transport.jpg": "/RideQuest/static/media/wedding_transport.bd73b57dbf40d9dfda76.jpg",
+    "static/media/baby_capsule.jpg": "/RideQuest/static/media/baby_capsule.63cec7acdde13192eed2.jpg",
+    "static/media/airport_transfer.jpg": "/RideQuest/static/media/airport_transfer.5fdf8ca165c06f76910b.jpg",
+    "index.html": "/RideQuest/index.html",
+    "main.7ba2f242.css.map": "/RideQuest/static/css/main.7ba2f242.css.map",
+    "main.26022fef.js.map": "/RideQuest/static/js/main.26022fef.js.map",
+    "787.d8ada10f.chunk.js.map": "/RideQuest/static/js/787.d8ada10f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba2f242.css",
+    "static/js/main.26022fef.js"
+  ]
+}
