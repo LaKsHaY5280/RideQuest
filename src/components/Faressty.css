@@ -1,0 +1,92 @@
+.fares-page {
+    margin: 50px auto;
+    max-width: 800px;
+    font-family: Arial, sans-serif;
+}
+
+.confirmation-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.confirmation-container h2 .white-text  {
+    color: #fff !important;
+}
+
+.white-text {
+    color: #fff;
+}
+
+.fares-container {
+    margin-bottom: 20px;
+    color: #315e8f;
+}
+
+.fares-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.fare-type {
+    font-weight: bold;
+    display: inline-block;
+    width: 80px;
+}
+
+.fare-price {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+.fare-estimator {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+
+
+.form-label {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.form-row {
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    margin-top: 10px;
+}
+
+
+
+
+
+.list-group-item {
+    background-color: #fff;
+
+}
+
+.dark-mode .list-group-item {
+    background-color: #232b33;
+    color: #fff;
+
+}
+
+.form-control {
+    background-color: #fff;
+
+    color: #232b33;
+
+}
+
+.dark-mode .form-control {
+    background-color: #232b33;
+    color: #fff;
+
+}
+.tfix {
+    margin-top: 100px;
+}

@@ -1,0 +1,84 @@
+.tfix {
+    margin-top: 100px;
+}
+.white-text {
+    color: #fff;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-container input,
+.form-container textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.form-container button {
+
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.form-container button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.form-container .red {
+    color: red;
+}
+
+.white-text {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .form-container {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 576px) {
+    .form-container {
+        max-width: 300px;
+    }
+}
+
+.form-container.white-text input {
+    background-color: #232b33;
+    color: #fff;
+}
+
+.form-container.white-text textarea {
+    background-color: #232b33;
+    color: #fff;
+}
+
+.dark-mode-input {
+    color: #fff;
+    background-color: #333;
+    border-color: #444;
+}
